@@ -9,3 +9,5 @@ My Goals
 - Understand commits and pushes
 
 Created by Sara Bettayeb.
+
+I am learning Git collaboration.
